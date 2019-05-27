@@ -65,11 +65,11 @@ collections:
       layout: post
     output: true
     permalink: /papers/:path/
-  projects:
-    defaults:
-      layout: post
-    output: false
-    permalink: /projects/:path/
+  # projects:
+    #defaults:
+      #layout: post
+    #output: false
+    #permalink: /projects/:path/
 
 news_limit: 5
 
