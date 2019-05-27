@@ -10,7 +10,7 @@ description: >
 
 profile:
   align: right
-  image: fig.png
+  image: fig1.png
   address: TU Wien / Wiedner Hauptstrasse 8-10/104, A-1040 Vienna, Austria
 
 research_interest: true
