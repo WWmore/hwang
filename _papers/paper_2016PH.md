@@ -11,6 +11,6 @@ video_link:
 project_web_link:
 code_link:
 
-image:  
+<!--image: -->  
 ---
 
