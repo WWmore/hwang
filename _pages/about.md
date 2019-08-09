@@ -3,9 +3,9 @@ layout: about
 permalink: /
 title: <strong>Hui </strong> Wang (making……)</strong>
 description: >
-  <p> hwang [at] geometrie [dot] tuwien [dot] ac [dot] at| 
+  <p> hwang@geometrie.tuwien.ac.at| 
       <a href="https://www.researchgate.net/profile/Wang_Hui35" target="_blank" title="GitHub"><i class="fab fa-github"></i> Research Gate</a> |  
-      <a href="https://scholar.google.com/citations?user=o-fHR5oAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a> 
+      <a href="https://scholar.google.com/citations?user=o-fHR5oAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i> </a> 
   </p>
 
 profile:
