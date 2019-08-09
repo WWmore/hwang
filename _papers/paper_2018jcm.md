@@ -1,6 +1,6 @@
 ---
 title:   The design of Bézier surface through quintic Bézier asymptotic quadrilateral
-date:    2017-09-12 15:59:00-0400
+date:    2018-07-12 15:59:00-0400
 authors: ['Hui Wang', 'Chungang Zhu', 'Caiyun Li']
 venue:   Journal of Computational Mathematics
 venue_shortcut: JCM
@@ -12,5 +12,5 @@ arxiv_link: 'http://www.global-sci.org/intro/article_detail/jcm/13043.html'
 <!-- project_web_link: -->
 <!-- code_link: -->
 
-<!--image: -->  
+image: 2018.png
 ---
