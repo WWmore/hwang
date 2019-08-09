@@ -11,6 +11,6 @@ arxiv_link: 'http://kns.cnki.net/kcms/detail/detail.aspx?filename=GCTX201602003&
 <!-- project_web_link: -->
 <!-- code_link: -->
 
-<!--image: -->  
+image: 2016.png
 ---
 
