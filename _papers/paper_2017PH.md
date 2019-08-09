@@ -12,5 +12,5 @@ arxiv_link: 'http://gb.oversea.cnki.net/kcms/detail/detailall.aspx?filename=sxyj
 <!-- project_web_link: -->
 <!-- code_link: -->
 
-<!--image: -->  
+image: 2017.png
 ---
