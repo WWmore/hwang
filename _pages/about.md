@@ -1,10 +1,10 @@
 ---
 layout: about
 permalink: /
-title: <strong>Hui </strong> Wang (making……)</strong>
+title: <strong>Hui </strong> Wang (王慧)</strong>
 description: >
   <p> hwang@geometrie.tuwien.ac.at  | 
-      <a href="https://www.researchgate.net/profile/Wang_Hui35" target="_blank" title="ResearchGate"><i class="fab fa-github"></i> </a>   |  
+   <--  <a href="https://www.researchgate.net/profile/Wang_Hui35" target="_blank" title="ResearchGate"><i class="fab fa-github"></i> </a>   |  --> 
       <a href="https://scholar.google.com/citations?user=o-fHR5oAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i> </a> 
   </p>
 
