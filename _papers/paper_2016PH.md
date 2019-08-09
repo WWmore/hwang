@@ -7,9 +7,9 @@ venue_shortcut:
 
 pdf_link: 'https://wwmore.github.io/hwang/assets/pub/2016PH.pdf'
 arxiv_link: 'http://kns.cnki.net/kcms/detail/detail.aspx?filename=GCTX201602003&dbcode=CJFQ&dbname=CJFD2016&v='
-video_link: 
-project_web_link:
-code_link:
+<!-- video_link: -->
+<!-- project_web_link: -->
+<!-- code_link: -->
 
 <!--image: -->  
 ---
