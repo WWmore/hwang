@@ -8,9 +8,9 @@ award:
 
 pdf_link: 'http://www.jcad.cn/jcadcms/document/attach_manager!download.action?id=4ad554245ca0d8bb015dd01428a7012a'
 arxiv_link: 'http://www.jcad.cn/jcadcms/show.action?code=publish_402880124b362464014b3c4d819803a1&newsid=0ce4d5cc1d414417b7a94e3458826980'
-video_link: 
-project_web_link:
-code_link:
+<!-- video_link: -->
+<!-- project_web_link: -->
+<!-- code_link: -->
 
-image:  
+<!--image: -->  
 ---
