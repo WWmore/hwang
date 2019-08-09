@@ -3,14 +3,14 @@ layout: about
 permalink: /
 title: <strong>Hui </strong> Wang (making……)</strong>
 description: >
-  <p> hwang@geometrie.tuwien.ac.at| 
-      <a href="https://www.researchgate.net/profile/Wang_Hui35" target="_blank" title="GitHub"><i class="fab fa-github"></i> Research Gate</a> |  
+  <p> hwang@geometrie.tuwien.ac.at  | 
+      <a href="https://www.researchgate.net/profile/Wang_Hui35" target="_blank" title="ResearchGate"><i class="fab fa-github"></i> </a>   |  
       <a href="https://scholar.google.com/citations?user=o-fHR5oAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i> </a> 
   </p>
 
 profile:
   align: right
-  image: fig0.png
+  image: me.JPG
   address: TU Wien / Wiedner Hauptstrasse 8-10/104, A-1040 Vienna, Austria
 
 research_interest: true
