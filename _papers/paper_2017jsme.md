@@ -12,5 +12,5 @@ arxiv_link: 'https://www.jstage.jst.go.jp/article/jamdsm/11/4/11_2017jamdsm0044/
 <!-- project_web_link: -->
 <!-- code_link: -->
 
-<!--image: -->  
+image: 2017.png
 ---
