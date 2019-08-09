@@ -15,7 +15,7 @@
             {% assign last_index = item.authors.size %}
             {% assign last_last_index = last_index | minus:1 %}
             {% for author in item.authors %}
-              {% if author == 'Guan-Horng Liu' or author == 'Guan-Horng Liu*' %}<span class="me"><b>{{author}}</b></span>{%else%}{{author}}{% endif %}{% if forloop.index != last_index %},{% endif %}{% if forloop.index == last_last_index %} and{% endif %}
+              {% if author == 'Hui Wang' or author == 'Hui Wang*' %}<span class="me"><b>{{author}}</b></span>{%else%}{{author}}{% endif %}{% if forloop.index != last_index %},{% endif %}{% if forloop.index == last_last_index %} and{% endif %}
             {% endfor %}
             <br>
             <span class="venue"><i>{{ item.venue }}</i></span>
