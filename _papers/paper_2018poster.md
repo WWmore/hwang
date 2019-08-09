@@ -12,7 +12,7 @@ video_link:
 project_web_link: 'https://eikeschling.com/2018/08/26/curved-support-structures-and-meshes-with-spherical-vertex-stars/'
 code_link:
 
-image: 
+image: svs_unduloid.gif
 ---
 
 
