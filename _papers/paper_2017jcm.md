@@ -8,9 +8,9 @@ award:
 
 pdf_link:  'https://wwmore.github.io/hwang/assets/pub/2018jcm.pdf'  
 arxiv_link: 'http://www.global-sci.org/intro/article_detail/jcm/13043.html'
-video_link: 
-project_web_link:
-code_link:
+<!-- video_link: -->
+<!-- project_web_link: -->
+<!-- code_link: -->
 
-image: 
+<!--image: -->  
 ---
