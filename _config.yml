@@ -4,8 +4,8 @@
 name: Hui Wang
 email: i1103552872@gmail.com
 description: ""
-url: http://wwmore.github.io # the base hostname & protocol for your site
-baseurl: ""# the subpath of your site, e.g. /blog/
+url: http://wwmore.github.io/hwang # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
 last_updated: May 2019 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
