@@ -1,6 +1,6 @@
 ---
 title:   'Identification of Planar Sextic Pythagorean-Hodograph Curves'
-date:    2017-01-01 15:59:00-0400
+date:    2016-12-01 15:59:00-0400
 authors: ['Hui Wang', 'Chungang Zhu', 'Caiyun Li']
 venue:   Journal of Mathematical Research with Applications
 venue_shortcut: 
