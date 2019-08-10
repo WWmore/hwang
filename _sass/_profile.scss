@@ -7,7 +7,7 @@
 }
 .address {
     font-family: monospace;
-    margin-left: 0px;
+    margin-left: 5px;
     p { margin: 0; }
 }
 
@@ -75,7 +75,7 @@
 
         .image { 
             width: 30%; 
-            img { width: 80%; }
+            img { height: 70%; }
         }
         .empty { width: 2%; }
         .description { 
