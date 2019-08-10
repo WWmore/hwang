@@ -17,7 +17,7 @@ research_interest: true
 news: true
 papers: true
 projects: true
-social: false
+social: true
 ---
 
 Hi, I am now a joint PhD student in <a href="https://www.geometrie.tuwien.ac.at/geom/ig/index.php" target="\_blank">Applied Geometry </a> group under the supervision of <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank">Prof. Helmut Pottmann</a>.
