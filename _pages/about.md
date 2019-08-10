@@ -20,8 +20,8 @@ projects: true
 social: false
 ---
 
-Hi, I am now a joint PhD student in <a href="https://www.geometrie.tuwien.ac.at/geom/ig/index.php" target="\_blank">Applied Geometry group</a> under the supervision of <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank">Prof. Helmut Pottmann</a>.
-Before coming to Vienna, I studied in <a href="https://math.dlut.edu.cn/English/About_us/Institutes.htm" target="\_blank"> Computational Geometry group</a> in Dalian University of Technology, supervised under <a href="http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm" target="\_blank">Prof. Chungang Zhu</a>.
+Hi, I am now a joint PhD student in <a href="https://www.geometrie.tuwien.ac.at/geom/ig/index.php" target="\_blank">Applied Geometry </a> group under the supervision of <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank">Prof. Helmut Pottmann</a>.
+Before coming to Vienna, I studied in <a href="https://math.dlut.edu.cn/English/About_us/Institutes.htm" target="\_blank"> Computational Geometry </a>  group in Dalian University of Technology, supervised under <a href="http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm" target="\_blank">Prof. Chungang Zhu</a>.
 
 <!-- My visiting research is supported by China Scholarship Council (CSC). -->
 
