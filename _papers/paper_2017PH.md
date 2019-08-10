@@ -6,7 +6,7 @@ venue:   Journal of Mathematical Research with Applications
 venue_shortcut: 
 award:
 
-pdf_link: 'https://wwmore.github.io/hwang/assets/pub/2017PH.pdf'
+<!-- pdf_link: 'https://wwmore.github.io/hwang/assets/pub/2017PH.pdf' -->
 arxiv_link: 'http://gb.oversea.cnki.net/kcms/detail/detailall.aspx?filename=sxyj201701007&dbcode=CJFQ&dbname=CJFQTOTAL'
 <!-- video_link: -->
 <!-- project_web_link: -->
