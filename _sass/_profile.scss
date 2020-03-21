@@ -1,13 +1,13 @@
 .profile {
     img {
         box-shadow: 0 0 5px $grey-color;
-        width: 70%;
-        margin-left: 15px;
+        width: 50%;
+        margin-left: 10px;
     }
 }
 .address {
     font-family: monospace;
-    margin-left: 10px;
+    margin-left: 1px;
     p { margin: 0; }
 }
 
@@ -73,12 +73,12 @@
         border-collapse: collapse;
         width: 100%;
 
-        .image { 
-            width: 30%; 
+        .image {
+            width: 30%;
             img { width: 70%; }
         }
         .empty { width: 2%; }
-        .description { 
+        .description {
             width: 68%;
             vertical-align: top;
         }
@@ -122,12 +122,12 @@
         border-collapse: collapse;
         width: 100%;
 
-        .image { 
-            width: 20%; 
+        .image {
+            width: 20%;
             img { width: 100%; }
         }
         .empty { width: 0%; }
-        .description { 
+        .description {
             width: 30%;
             vertical-align: top;
         }
