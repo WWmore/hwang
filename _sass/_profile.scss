@@ -2,13 +2,13 @@
     img {
         box-shadow: 0 0 5px $grey-color;
         width: 50%;
-        margin-left: 10px;
+        margin-left: 20px;
     }
 }
 .address {
     font-family: monospace;
-    margin-left: 1px;
-    p { margin: 0; }
+    margin-left: 10px;
+    p { margin: 10; }
 }
 
 .news {
@@ -152,7 +152,7 @@
 }
 
 .me {
-    color: #830;
+    color: #00369f;
     font-weight: bold;
 }
 
