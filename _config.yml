@@ -12,8 +12,8 @@ last_updated: May 2019 # leave blank if you don't want to display last updated
 # Research Interests
 # -----------------------------------------------------------------------------
 research_interests:
-  - topic: 'Differential / Computational Geometry'
-  - topic: 'Architectural Geometry'
+  #- topic: 'Differential / Computational Geometry'
+  #- topic: 'Architectural Geometry'
 
 # -----------------------------------------------------------------------------
 # Social integration
