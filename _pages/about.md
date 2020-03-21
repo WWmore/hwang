@@ -11,7 +11,7 @@ description: >
 profile:
   align: right
   image: me.JPG
-  address: TU Wien / Wiedner Hauptstrasse 8-10/104, A-1040 Vienna, Austria
+  address: Linggong Road 2, Ganjingzi District, Dalian, 116024, China
 
 research_interest: true
 news: true
@@ -26,7 +26,7 @@ under the supervision of <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pot
 I got my Bachelor degree from Jilin Normal University in 2013.
 My current research interests include architectural geometry, computational geometry and differential geometry.
 Please check my
-<a href="https://ghliu.github.io/assets/pub/hwang-cv.pdf" target="\_blank"><b>full resume</b></a> here.
+<a href="https://WWmore.github.io/hwang/assets/pub/hwang-cv.pdf" target="\_blank"><b>CV</b></a> here.
 
 <!--  Hi, I am now a joint PhD student in <a href="https://www.geometrie.tuwien.ac.at/geom/ig/index.php" target="\_blank">Applied Geometry group</a> under the supervision of <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank">Prof. Helmut Pottmann</a>.
 Before coming to Vienna, I studied in <a href="https://math.dlut.edu.cn/English/About_us/Institutes.htm" target="\_blank"> Computational Geometry group</a> in Dalian University of Technology, supervised under <a href="http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm" target="\_blank">Prof. Chungang Zhu</a>.
