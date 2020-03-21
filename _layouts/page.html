@@ -13,10 +13,6 @@ layout: default
     {{ content }}
   </article>
 
-  {% if page.research_interest %}
-    {% include research_interest.html %}
-  {% endif %}
-
   <div id='news'><a name='news'></a></div>
   {% if page.news %}
     {% include news.html %}
@@ -32,8 +28,10 @@ layout: default
     {% include projects.html %}
   {% endif %}-->
 
-  {% if page.social %}
+  <!--{% if page.research_interest %}
+    {% include research_interest.html %}
+  {% endif %}  {% if page.social %}
     {% include social.html %}
-  {% endif %}
+  {% endif %}-->
 
 </div>
