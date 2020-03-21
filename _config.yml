@@ -4,9 +4,9 @@
 name: Hui Wang
 email: i1103552872@gmail.com
 description: ""
-url:  "" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog/
-last_updated:  # leave blank if you don't want to display last updated
+url: # the base hostname & protocol for your site
+baseurl: /hwang # the subpath of your site, e.g. /blog/
+last_updated: May 2019 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Research Interests
@@ -18,10 +18,11 @@ research_interests:
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: WWmore
+researchgate_username: Wang_Hui35 #
+github_username:  WWmore
 twitter_username: # your Twitter handle
 linkedin_username:  # your LinkedIn user name
-scholar_userid:  # your Google Scholar ID
+scholar_userid:  # o-fHR5oAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 contact_note: # You can even add a little note about which of these is the best way to reach you.
 
@@ -65,11 +66,11 @@ collections:
       layout: post
     output: true
     permalink: /papers/:path/
-  projects:
-    defaults:
-      layout: post
-    output: true
-    permalink: /projects/:path/
+  # projects:
+    #defaults:
+      #layout: post
+    #output: false
+    #permalink: /projects/:path/
 
 news_limit: 5
 
@@ -97,7 +98,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Wang
 
   style: apa
   locale: en

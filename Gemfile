@@ -7,5 +7,10 @@ group :jekyll_plugins do
     gem 'jekyll-scholar'
     gem 'jemoji'
     gem 'unicode_utils'
+<<<<<<< HEAD
     gem 'rdiscount'
+=======
+    gem 'guard'
+    gem 'guard-livereload'
+>>>>>>> 91b6833239138f949e09f294b9a90408919c303a
 end

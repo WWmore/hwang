@@ -12,7 +12,7 @@ video_link:
 project_web_link: 'https://www.researchgate.net/project/Repetitive-Structures'
 code_link:
 
-image: 
+image: paper_svs_aag_cut.png
 ---
 <!-- figl.gif -->
 <!-- 

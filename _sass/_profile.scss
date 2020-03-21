@@ -1,13 +1,13 @@
 .profile {
     img {
         box-shadow: 0 0 5px $grey-color;
-        width: 100%;
+        width: 70%;
         margin-left: 15px;
     }
 }
 .address {
     font-family: monospace;
-    margin-left: 0px;
+    margin-left: 10px;
     p { margin: 0; }
 }
 
@@ -75,7 +75,7 @@
 
         .image { 
             width: 30%; 
-            img { width: 100%; }
+            img { width: 70%; }
         }
         .empty { width: 2%; }
         .description { 
