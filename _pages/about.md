@@ -10,7 +10,7 @@ description: >
 
 profile:
   align: right
-  image: me.JPG
+  image: me2.jpg
   address: Linggong Road 2, Ganjingzi District, Dalian, 116024, China
 
 research_interest: false
