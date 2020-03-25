@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Hui </strong> Wang (王慧)</strong>
+title: Hui <strong> Wang </strong> (王慧)</strong>
 description: >
   <p> hwangchn [at] outlook [dot] com|
       <a href="https://www.researchgate.net/profile/Wang_Hui35" target="_blank" title="GitHub"><i class="fab fa-github"></i> Research Gate</a> |  
