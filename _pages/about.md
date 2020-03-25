@@ -11,7 +11,7 @@ description: >
 profile:
   align: right
   image: me2.jpg
-  address: Linggong Road 2, Ganjingzi District, Dalian, 116024, China
+  address: Linggong Road 2, Ganjingzi District, Dalian, China
 
 research_interest: false
 news: true
