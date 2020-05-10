@@ -20,8 +20,8 @@ projects: false
 social: false
 ---
 
-Hi, I am now a fifth-year PhD student in <a href="https://math.dlut.edu.cn/English/About_us/Institutes.htm" target="\_blank"> Computational Geometry group</a> in Dalian University of Technology, supervised under <a href="http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm" target="\_blank">Prof. Chungang Zhu</a>.
-Previsouly, I visited <a href="https://www.geometrie.tuwien.ac.at/geom/ig/index.php" target="\_blank">Applied Geometry group</a> as a joint PhD student for two years, where I was
+Hi, I am now a fifth-year Ph.D. student in <a href="https://math.dlut.edu.cn/English/About_us/Institutes.htm" target="\_blank"> Computational Geometry group</a> in Dalian University of Technology, supervised under <a href="http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm" target="\_blank">Prof. Chungang Zhu</a>.
+Previsouly, I visited <a href="https://www.geometrie.tuwien.ac.at/geom/ig/index.php" target="\_blank">Applied Geometry group</a> as a joint Ph.D. student for two years, where I was
 under the supervision of <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank">Prof. Helmut Pottmann</a>.
 I got my Bachelor degree from Jilin Normal University in 2013.
 My current research interests include architectural geometry, computational geometry and differential geometry.
