@@ -4,7 +4,7 @@ permalink: /
 title: Hui <strong> Wang </strong> (王慧)</strong>
 description: >
   <p> hui.wang.1 [at] kaust [dot] edu [dot] sa|
-      <a href="https://www.researchgate.net/profile/Wang_Hui35" target="_blank" title="GitHub"><i class="fab fa-github"></i> Research Gate</a> |  
+      <a href="https://www.researchgate.net/profile/Wang_Hui35" target="_blank" title="Research Gate"><i class="ai ai-researchgate"></i> Research Gate</a> |  
       <a href="https://scholar.google.com/citations?user=o-fHR5oAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a>
   </p>
 
