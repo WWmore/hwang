@@ -9,7 +9,7 @@ award:
 pdf_link:   'https://www.geometrie.tuwien.ac.at/geom/ig/publications/aagweingarten/aagweingarten.pdf'
 arxiv_link: 'https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php'
 video_link:  
-project_web_link:
+web_link: 'https://www.aag2020.com/'
 code_link:
 
 image: paper_aag2020.png

@@ -25,6 +25,7 @@
             {% if item.arxiv_link %}<span class="supplementary"><a href="{{ item.arxiv_link }}" target="_blank">arXiv preprint |</a></span>{% endif %}
             {% if item.video_link %}<span class="supplementary"><a href="{{ item.video_link }}" target="_blank">video |</a></span>{% endif %}
             {% if item.project_web_link %}<span class="supplementary"><a href="{{ item.project_web_link }}" target="_blank">project |</a></span>{% endif %}
+            {% if item.web_link %}<span class="supplementary"><a href="{{ item.web_link }}" target="_blank">project |</a></span>{% endif %}
             {% if item.code_link %}<span class="supplementary"><a href="{{ item.code_link }}" target="_blank">code |</a></span>{% endif %}
             </h5>
             <br>
@@ -34,5 +35,3 @@
     {% endfor %}
     </table>
 </div>
-
-

@@ -25,9 +25,8 @@ Hi, I am now a Postdoctoral Research Fellow of
 in
 <a href="https://cemse.kaust.edu.sa/vcc" target="\_blank">Visual Computing Center (VCC)</a>
 in KAUST.
-Previously, I visited
-<a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank">Prof. Pottmann's </a>
-<a href="https://www.geometrie.tuwien.ac.at/geom/ig/index.php" target="\_blank">Applied Geometry group</a>
+Previously, I visited Prof. Pottmann's
+<a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank">Applied Geometry group </a>
 in TU Wien as a joint Ph.D. student for two years.
 I got my PhD from Dalian University of Technology (DUT), where I was
 supervised under <a href="http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm" target="\_blank">Prof. Chungang Zhu</a>
