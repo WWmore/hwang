@@ -7,9 +7,10 @@ venue_shortcut: SIGGRAPH ASIA
 award:
 
 pdf_link:   'https://www.geometrie.tuwien.ac.at/geom/ig/publications/geodesic/geodesic.pdf'
-arxiv_link: 'https://www.geometrie.tuwien.ac.at/geom/ig/wang/index.php'
+project_web_link: 'https://www.geometrie.tuwien.ac.at/geom/ig/wang/index.php'
+web_link: 'https://sa2019.siggraph.org/attend/technical-papers/session/132/details/20'
 video_link:  
-project_web_link: 'https://www.geometrie.tuwien.ac.at/geom/ig/mueller/index.php'
+project_web_link:
 code_link:
 
 image: paper_DGPC.jpg

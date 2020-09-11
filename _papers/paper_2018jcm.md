@@ -6,7 +6,7 @@ venue:   Journal of Computational Mathematics
 venue_shortcut: JCM
 
 
-arxiv_link: 'http://www.global-sci.org/intro/article_detail/jcm/13043.html'
+pdf_link: 'http://www.global-sci.org/intro/article_detail/jcm/13043.html'
 
 image: 2017.png
 ---

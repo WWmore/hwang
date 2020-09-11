@@ -6,7 +6,7 @@ venue:   Journal of Advanced Mechanical Design, Systems, and Manufacturing
 venue_shortcut: JSME
 award:
 
-arxiv_link: 'https://www.jstage.jst.go.jp/article/jamdsm/11/4/11_2017jamdsm0044/_article/-char/ja/'
+pdf_link: 'https://www.jstage.jst.go.jp/article/jamdsm/11/4/11_2017jamdsm0044/_article/-char/ja/'
 
 image: 2017.png
 ---

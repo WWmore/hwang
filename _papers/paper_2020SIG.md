@@ -6,8 +6,9 @@ venue:   ACM Trans. Graphics
 venue_shortcut: SIGGRAPH
 award:
 
-pdf_link:   'https://www.geometrie.tuwien.ac.at/geom/ig/publications/snets/snets.pdf'
+pdf_link: 'https://www.geometrie.tuwien.ac.at/geom/ig/publications/snets/snets.pdf'
 project_web_link: 'https://www.geometrie.tuwien.ac.at/geom/ig/mueller/index.php'
+web_link: 'https://s2020.siggraph.org/conference/program-events/technical-papers/#program_content'
 
 image: paper_2020SIG.png
 ---
