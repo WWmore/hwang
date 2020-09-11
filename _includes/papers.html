@@ -21,12 +21,12 @@
             <span class="venue"><i>{{ item.venue }}</i></span>
             {% if item.venue_shortcut %}<span class="venue"> (<b>{{ item.venue_shortcut }}</b>)</span>{% endif %}<span class="venue">, {{ item.date | date: "%b %Y" }}</span>{% if item.award %}<span class="award"> <b>({{ item.award }})</b></span>{% endif %}
             <br>
-            {% if item.pdf_link %}<span class="supplementary"><a href="{{ item.pdf_link }}" target="_blank">PDF |</a></span>{% endif %}
-            {% if item.arxiv_link %}<span class="supplementary"><a href="{{ item.arxiv_link }}" target="_blank">arXiv preprint |</a></span>{% endif %}
-            {% if item.video_link %}<span class="supplementary"><a href="{{ item.video_link }}" target="_blank">video |</a></span>{% endif %}
-            {% if item.project_web_link %}<span class="supplementary"><a href="{{ item.project_web_link }}" target="_blank">project |</a></span>{% endif %}
-            {% if item.web_link %}<span class="supplementary"><a href="{{ item.web_link }}" target="_blank">Web |</a></span>{% endif %}
-            {% if item.code_link %}<span class="supplementary"><a href="{{ item.code_link }}" target="_blank">code |</a></span>{% endif %}
+            {% if item.pdf_link %}<span class="supplementary"><a href="{{ item.pdf_link }}" target="_blank">PDF</a></span>{% endif %}
+            {% if item.arxiv_link %}<span class="supplementary"><a href="{{ item.arxiv_link }}" target="_blank">| arXiv preprint</a></span>{% endif %}
+            {% if item.video_link %}<span class="supplementary"><a href="{{ item.video_link }}" target="_blank">| video</a></span>{% endif %}
+            {% if item.project_web_link %}<span class="supplementary"><a href="{{ item.project_web_link }}" target="_blank">| project</a></span>{% endif %}
+            {% if item.web_link %}<span class="supplementary"><a href="{{ item.web_link }}" target="_blank">| Web</a></span>{% endif %}
+            {% if item.code_link %}<span class="supplementary"><a href="{{ item.code_link }}" target="_blank">| code</a></span>{% endif %}
             </h5>
             <br>
             <h5>{{ item.content }}</h5>
