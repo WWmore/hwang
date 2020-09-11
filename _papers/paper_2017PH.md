@@ -7,9 +7,6 @@ venue_shortcut:
 award:
 
 pdf_link: 'http://gb.oversea.cnki.net/kcms/detail/detailall.aspx?filename=sxyj201701007&dbcode=CJFQ&dbname=CJFQTOTAL'
-<!-- video_link: -->
-<!-- project_web_link: -->
-<!-- code_link: -->
 
 image: 2016.png
 ---
