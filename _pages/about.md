@@ -3,7 +3,7 @@ layout: about
 permalink: /
 title: Hui <strong> Wang </strong> (王慧)</strong>
 description: >
-  <p> hwangchn [at] outlook [dot] com|
+  <p> hui.wang.1 [at] kaust [dot] edu [dot] sa|
       <a href="https://www.researchgate.net/profile/Wang_Hui35" target="_blank" title="GitHub"><i class="fab fa-github"></i> Research Gate</a> |  
       <a href="https://scholar.google.com/citations?user=o-fHR5oAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a>
   </p>
@@ -11,7 +11,7 @@ description: >
 profile:
   align: right
   image: me2.jpg
-  address: Linggong Road 2, Ganjingzi District, Dalian, China
+  address: hwangchn [at] outlook [dot] com
 
 research_interest: false
 news: true
@@ -20,11 +20,21 @@ projects: false
 social: false
 ---
 
-Hi, I am now a fifth-year Ph.D. student in <a href="https://math.dlut.edu.cn/English/About_us/Institutes.htm" target="\_blank"> Computational Geometry group</a> in Dalian University of Technology, supervised under <a href="http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm" target="\_blank">Prof. Chungang Zhu</a>.
-Previsouly, I visited <a href="https://www.geometrie.tuwien.ac.at/geom/ig/index.php" target="\_blank">Applied Geometry group</a> as a joint Ph.D. student for two years, where I was
-under the supervision of <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank">Prof. Helmut Pottmann</a>.
+Hi, I am now a Postdoctoral Research Fellow of
+<a href="https://cemse.kaust.edu.sa/vcc/people/person/helmut-pottmann" target="\_blank">Prof. Helmut Pottmann </a> group
+in
+<a href="https://cemse.kaust.edu.sa/vcc" target="\_blank">Visual Computing Center (VCC)</a>
+in KAUST.
+Previously, I visited
+<a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank">Prof. Pottmann's </a>
+<a href="https://www.geometrie.tuwien.ac.at/geom/ig/index.php" target="\_blank">Applied Geometry group</a>
+in TU Wien as a joint Ph.D. student for two years.
+I got my PhD from Dalian University of Technology (DUT), where I was
+supervised under <a href="http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm" target="\_blank">Prof. Chungang Zhu</a>
+in
+<a href="https://math.dlut.edu.cn/English/About_us/Institutes.htm" target="\_blank"> Computational Geometry group</a>.
 I got my Bachelor degree from Jilin Normal University in 2013.
-My current research interests include architectural geometry, computational geometry and differential geometry.
+My current research interests include architectural geometry, discrete differential geometry, and geometry processing.
 Please check my
 <a href="https://WWmore.github.io/hwang/assets/pub/hwang-cv.pdf" target="\_blank"><b>CV</b></a> here.
 
