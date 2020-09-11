@@ -11,7 +11,7 @@ description: >
 profile:
   align: right
   image: me2.jpg
-  address: KAUST
+  address: VCC, KAUST
 
 research_interest: false
 news: true
