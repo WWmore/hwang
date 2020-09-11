@@ -12,7 +12,7 @@ video_link:
 web_link: 'https://www.aag2020.com/'
 code_link:
 
-image: aag20.png
+image: paper_aag20.png
 ---
 <!-- figl.gif -->
 <!--
