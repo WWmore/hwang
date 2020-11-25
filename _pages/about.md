@@ -28,7 +28,7 @@ in KAUST.
 Previously, I visited Prof. Pottmann's
 <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank">Applied Geometry group </a>
 in TU Wien as a joint PhD student for two years.
-I got my PhD from Dalian University of Technology (DUT), where I was
+I got my PhD in 2020 from Dalian University of Technology (DUT), where I was
 supervised under <a href="http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm" target="\_blank">Prof. Chungang Zhu</a>
 in
 <a href="https://math.dlut.edu.cn/English/About_us/Institutes.htm" target="\_blank"> Computational Geometry group</a>.
